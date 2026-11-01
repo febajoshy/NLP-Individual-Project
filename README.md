@@ -16,7 +16,7 @@ Pipeline
    development split.
 6. Evaluate answers using an LLM judge, multilingual NLI checks,
    citation and number-grounding checks, and reference-answer
-   similarity.
+   similarity and human audit is done.
 7. Compare results overall and by question language, with confidence
    intervals and statistical tests.
 Requirements
